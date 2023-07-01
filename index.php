@@ -1,3 +1,18 @@
 <?php
 echo "JAUN";
+
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Landing Page</title>
+</head>
+<body>
+  <h1>Welcome to my landing page!</h1>
+  <p>This is a simple landing page that I created using HTML.</p>
+  <p>You can learn more about HTML by visiting the following website:</p>
+  <a href="https://www.w3schools.com/html/default.asp">https://www.w3schools.com/html/default.asp</a>
+</body>
+</html>
